@@ -1,0 +1,19 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 635px;
+}
+
+#header{
+    background-color: blue;
+    padding: 10px 0px;
+}
+#header h2{
+    color: white;
+}
+#header button{
+    float: right;
+}
+#footer{
+    background-color: blue;
+}

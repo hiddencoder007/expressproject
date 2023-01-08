@@ -1,0 +1,113 @@
+#header{
+    background:linear-gradient(to right,rgb(118,103,246),rgb(15,4,106));
+    padding: 10px 0px;
+    }
+    
+    #header ul li a{
+            color: white;
+            transition-property: color;
+            transition-duration: 1s;
+    }
+
+    #header ul li a:hover{
+        color: rgb(146, 146, 151);
+    }
+
+    #header img{
+        width: 100px;
+    }
+
+    #header .bi-list{
+        color: white;
+        font-size: 20px;
+    }
+
+    #header .container-fluid{
+        padding: 0px 0px;
+    }
+
+
+    #border .navbar-toggler{
+        border: 1px solid white;
+    }
+    
+    #banner{
+        background:linear-gradient(to right,rgb(118,103,246),rgb(15,4,106));
+        padding-top: 20px;
+    }
+
+    #banner h4{
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+        text-align: center;
+        padding-top: 6px;
+    }
+
+    #banner p{
+        color: white;
+    }
+
+    #banner #img-banner{
+        width: 150px;
+        border-radius: 50%;
+    }
+
+    #banner img{
+        width: 100%;
+    }
+
+
+    #services .card{
+        border: 0px solid gray;   
+       }
+
+    #services .card img{
+        width: 150px;
+        height: 150px;
+    }
+
+    #services h2{
+        text-align:center;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 40px;
+    }
+
+
+    #footer{
+        background:linear-gradient(to right,rgb(118,103,246),rgb(15,4,106));
+    }
+
+    #footer #footer-banner{
+        width: 100%;
+        color: white;
+    }
+
+    #footer img{
+        width: 80px;
+    }
+
+    #footer h2{
+        font-family: 'Open Sans', sans-serif;
+        color: white;
+    }
+
+    #footer span{
+        font-size: 30px;
+        color: white;
+    }
+
+    #footer p{
+        font-size: 15px;
+        color: white;
+    }
+
+    #footer #footerlogo{
+        width: 100px;
+    }
+
+    #testi h2{
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 40px;
+
+    }
